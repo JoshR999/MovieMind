@@ -13,6 +13,7 @@ This App's framework is based on the Rest-Rant App, refactored and repurposed fo
 
 
 ## Instructions
+For concept purposes, change to frontend folder, then run 'npm install' and finally run 'npm start' to see a working frontend with API functionality without backend. 
 To run the application locally, change to client folder. Then run 'npm install'. Add a .env folder and specify PORT, DB_URI, DB_NAME, DB_PASSWORD. Then run 'nodemon'.
 
 
@@ -23,7 +24,8 @@ To run the application locally, change to client folder. Then run 'npm install'.
 
 
 ## Current Errors
- - 
+ - User functionality not fully implemented
+ - About and Privacy pages not implemented
 
 
 # Parts:
